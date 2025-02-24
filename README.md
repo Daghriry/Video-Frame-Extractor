@@ -53,7 +53,8 @@ The application handles:
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/af69cf11-2ef7-4d10-9fbf-29ede1430a9b)
+![image](https://github.com/user-attachments/assets/65083180-f557-4201-b8a1-161b39d93652)
+
 
 
 # About the Developer
